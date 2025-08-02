@@ -6,7 +6,7 @@ This repository contains exercise implementations from the book **Neural Network
 
 - `c01_...` to `c21_...`: Jupyter notebooks organized by chapter
 - Each notebook builds upon the previous one to form a full neural network
-- The final version, including saving and loading model parameters, is in: c21_saving_loading_params.ipynb
+- The complete model is in: c21_saving_loading_params.ipynb
 
 
 ## Requirements
