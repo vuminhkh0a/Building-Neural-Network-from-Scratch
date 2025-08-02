@@ -16,8 +16,6 @@ To run the notebooks, you need the following Python packages:
 - numpy  
 - matplotlib  
 - opencv-python (cv2)  
-- pickle (standard library)  
-- os (standard library)  
 - nnfs  
 - jupyter
 
