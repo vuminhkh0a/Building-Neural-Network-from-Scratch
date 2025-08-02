@@ -1,6 +1,6 @@
 # Building-Neural-Network-from-Scratch
 
-This repository contains exercise implementations from the book **Neural Network from Scratch with Python**. Each chapter demonstrates how to build a complete neural network using only core Python and NumPy, without relying on high-level machine learning frameworks.
+This repository contains exercise implementations from the book **Neural Network from Scratch with Python**. Each chapter demonstrates how to build a complete neural network using only core Python and NumPy, without relying on high-level ML frameworks.
 
 ## Structure
 
